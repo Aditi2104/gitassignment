@@ -1,0 +1,4 @@
+name:aditi
+class:te
+subject:wad
+practical exam
